@@ -1,0 +1,4 @@
+C:\Projects\Launcher\Interfaces.Lib\bin\Debug\Interfaces.Lib.dll
+C:\Projects\Launcher\Interfaces.Lib\bin\Debug\Interfaces.Lib.pdb
+C:\Projects\Launcher\Interfaces.Lib\obj\Debug\Interfaces.Lib.dll
+C:\Projects\Launcher\Interfaces.Lib\obj\Debug\Interfaces.Lib.pdb

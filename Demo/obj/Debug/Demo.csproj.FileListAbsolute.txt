@@ -1,0 +1,10 @@
+C:\Projects\Launcher\Demo\bin\Debug\Demo.dll
+C:\Projects\Launcher\Demo\bin\Debug\Demo.pdb
+C:\Projects\Launcher\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+C:\Projects\Launcher\Demo\obj\Debug\Demo.dll
+C:\Projects\Launcher\Demo\obj\Debug\Demo.pdb
+C:\Projects\Launcher\Demo\obj\Debug\MainWindowDemo.g.cs
+C:\Projects\Launcher\Demo\obj\Debug\Demo_MarkupCompile.cache
+C:\Projects\Launcher\Demo\obj\Debug\MainWindowDemo.baml
+C:\Projects\Launcher\Demo\obj\Debug\Demo.g.resources
+C:\Projects\Launcher\Demo\obj\Debug\Demo_MarkupCompile.lref

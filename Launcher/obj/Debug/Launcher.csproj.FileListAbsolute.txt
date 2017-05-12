@@ -1,0 +1,15 @@
+C:\Projects\Launcher\Launcher\bin\Debug\Launcher.exe.config
+C:\Projects\Launcher\Launcher\bin\Debug\Launcher.exe
+C:\Projects\Launcher\Launcher\bin\Debug\Launcher.pdb
+C:\Projects\Launcher\Launcher\bin\Debug\Interfaces.Lib.dll
+C:\Projects\Launcher\Launcher\bin\Debug\Interfaces.Lib.pdb
+C:\Projects\Launcher\Launcher\obj\Debug\Launcher.csprojResolveAssemblyReference.cache
+C:\Projects\Launcher\Launcher\obj\Debug\MainWindow.g.cs
+C:\Projects\Launcher\Launcher\obj\Debug\App.g.cs
+C:\Projects\Launcher\Launcher\obj\Debug\Launcher_MarkupCompile.cache
+C:\Projects\Launcher\Launcher\obj\Debug\Launcher_MarkupCompile.lref
+C:\Projects\Launcher\Launcher\obj\Debug\MainWindow.baml
+C:\Projects\Launcher\Launcher\obj\Debug\Launcher.g.resources
+C:\Projects\Launcher\Launcher\obj\Debug\Launcher.exe
+C:\Projects\Launcher\Launcher\obj\Debug\Launcher.pdb
+C:\Projects\Launcher\Launcher\obj\Debug\App.baml
